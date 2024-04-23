@@ -10,11 +10,11 @@ function App() {
   const [theme, setTheme] = useState("dark");
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className={`container ${theme}`}>
         <NavBar theme={theme} setTheme={setTheme} />
         <Routes>
-          <Route exact path="/" element={<Home theme={theme} />} />
+          <Route path="/" element={<Home theme={theme} />} />
           <Route path="/about" element={<AboutUs theme={theme} />} />
           {/* Add more routes for other pages */}
         </Routes>
