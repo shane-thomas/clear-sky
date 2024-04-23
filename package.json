@@ -1,7 +1,7 @@
 {
   "name": "clear-sky",
   "version": "0.1.0",
-  "homepage": "https://shane-thomas.github.io/react-gh-pages",
+  "homepage": "https://shane-thomas.github.io/clear-sky",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
