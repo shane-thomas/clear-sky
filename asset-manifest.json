@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ab3430e2.css",
-    "main.js": "/react-gh-pages/static/js/main.85142489.js",
-    "static/media/aravind.jpeg": "/react-gh-pages/static/media/aravind.11ec0663e96cc82be0e1.jpeg",
-    "static/media/shane.png": "/react-gh-pages/static/media/shane.e63e58d644e96072e84d.png",
-    "static/media/thej.jpeg": "/react-gh-pages/static/media/thej.1297e8239138d4d9f79f.jpeg",
-    "static/media/light_logo.png": "/react-gh-pages/static/media/light_logo.cddf7e0061799933793a.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ab3430e2.css.map": "/react-gh-pages/static/css/main.ab3430e2.css.map",
-    "main.85142489.js.map": "/react-gh-pages/static/js/main.85142489.js.map"
+    "main.css": "/clear-sky/static/css/main.ab3430e2.css",
+    "main.js": "/clear-sky/static/js/main.c28bbdfa.js",
+    "static/media/aravind.jpeg": "/clear-sky/static/media/aravind.11ec0663e96cc82be0e1.jpeg",
+    "static/media/shane.png": "/clear-sky/static/media/shane.e63e58d644e96072e84d.png",
+    "static/media/thej.jpeg": "/clear-sky/static/media/thej.1297e8239138d4d9f79f.jpeg",
+    "static/media/light_logo.png": "/clear-sky/static/media/light_logo.cddf7e0061799933793a.png",
+    "index.html": "/clear-sky/index.html",
+    "main.ab3430e2.css.map": "/clear-sky/static/css/main.ab3430e2.css.map",
+    "main.c28bbdfa.js.map": "/clear-sky/static/js/main.c28bbdfa.js.map"
   },
   "entrypoints": [
     "static/css/main.ab3430e2.css",
-    "static/js/main.85142489.js"
+    "static/js/main.c28bbdfa.js"
   ]
 }
