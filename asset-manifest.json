@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/clear-sky/static/css/main.ab3430e2.css",
-    "main.js": "/clear-sky/static/js/main.39532db7.js",
+    "main.js": "/clear-sky/static/js/main.7f9d1a46.js",
     "static/media/aravind.jpeg": "/clear-sky/static/media/aravind.11ec0663e96cc82be0e1.jpeg",
     "static/media/shane.png": "/clear-sky/static/media/shane.e63e58d644e96072e84d.png",
     "static/media/thej.jpeg": "/clear-sky/static/media/thej.1297e8239138d4d9f79f.jpeg",
     "static/media/light_logo.png": "/clear-sky/static/media/light_logo.cddf7e0061799933793a.png",
     "index.html": "/clear-sky/index.html",
     "main.ab3430e2.css.map": "/clear-sky/static/css/main.ab3430e2.css.map",
-    "main.39532db7.js.map": "/clear-sky/static/js/main.39532db7.js.map"
+    "main.7f9d1a46.js.map": "/clear-sky/static/js/main.7f9d1a46.js.map"
   },
   "entrypoints": [
     "static/css/main.ab3430e2.css",
-    "static/js/main.39532db7.js"
+    "static/js/main.7f9d1a46.js"
   ]
 }
